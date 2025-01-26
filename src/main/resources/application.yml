@@ -1,0 +1,21 @@
+server:
+  port: 8989
+spring:
+  application:
+    name: alura-codechella
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    database: POSTGRESQL
+    hibernate:
+      ddl-auto: create
+      show-sql: true
+      format_sql: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/codechella
+    platform: postgres
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+    hikari:
+      connection-timeout: 20000
+      maximum-pool-size: 5
