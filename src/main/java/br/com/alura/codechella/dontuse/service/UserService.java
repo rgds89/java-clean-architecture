@@ -1,6 +1,6 @@
-package br.com.alura.codechella.service;
+package br.com.alura.codechella.dontuse.service;
 
-import br.com.alura.codechella.model.dto.UserDto;
+import br.com.alura.codechella.dontuse.model.dto.UserDto;
 
 import java.util.List;
 

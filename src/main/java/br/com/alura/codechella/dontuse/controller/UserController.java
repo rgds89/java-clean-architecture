@@ -1,8 +1,8 @@
-package br.com.alura.codechella.controller;
+package br.com.alura.codechella.dontuse.controller;
 
 
-import br.com.alura.codechella.model.dto.UserDto;
-import br.com.alura.codechella.service.UserService;
+import br.com.alura.codechella.dontuse.model.dto.UserDto;
+import br.com.alura.codechella.dontuse.service.UserService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

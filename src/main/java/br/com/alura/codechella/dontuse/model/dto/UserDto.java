@@ -1,4 +1,4 @@
-package br.com.alura.codechella.model.dto;
+package br.com.alura.codechella.dontuse.model.dto;
 
 import lombok.Builder;
 

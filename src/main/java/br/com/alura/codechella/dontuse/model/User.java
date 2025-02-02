@@ -1,7 +1,7 @@
-package br.com.alura.codechella.model;
+package br.com.alura.codechella.dontuse.model;
 
 
-import br.com.alura.codechella.model.dto.UserDto;
+import br.com.alura.codechella.dontuse.model.dto.UserDto;
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,6 +1,6 @@
-package br.com.alura.codechella.repository;
+package br.com.alura.codechella.dontuse.repository;
 
-import br.com.alura.codechella.model.User;
+import br.com.alura.codechella.dontuse.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
